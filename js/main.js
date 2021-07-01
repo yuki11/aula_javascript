@@ -66,3 +66,37 @@ let frutas = [{nome: "maça", cor: "vermelho"}, {nome: "uva", cor: "roxa"}]
 console.log(frutas.nome);
 console.log(frutas[0].nome);
 */
+
+
+//aula 3
+/*
+//faz uma pergunta
+let idade = prompt("Qual sua idade");
+//let idade = 18;
+
+if(idade => 18){
+    alert("maior de idade");
+}
+else{
+    alert("menor de idade");
+}
+
+*/
+/*
+let count = 0;
+while (count <= 5) {
+    console.log(count);
+    //count = count + 1;
+    count++;   
+}
+
+for(count=0; count<=5; count++){
+    console.log(count);
+}
+
+//data
+let d = new Date();
+alert(d);
+alert(d.getMonth()+1);
+alert(d.getHours());
+*/
